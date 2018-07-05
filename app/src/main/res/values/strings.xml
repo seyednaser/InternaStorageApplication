@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">InternaStorageApplication</string>
+    <string name="file_content"></string>
 </resources>
